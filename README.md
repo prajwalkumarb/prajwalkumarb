@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Prajwal Kumar B and I'm a Software Engineer, from Maharaja Institute of Technology Mysore</h2>
+<h2 align="left">Hi 👋! <br> My name is Prajwal Kumar B and I'm a Software Engineer, from Maharaja Institute of Technology Mysore</h2>
 
 ###
 
@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://banner2.cleanpng.com/20180324/qxw/kisspng-linux-kernel-operating-systems-free-and-open-sourc-linux-5ab6fba3ce59e6.7795666315219414118452.jpg" height="30" alt="Linux logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" height="30" alt="kali linux logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" height="35" alt="kali linux logo"  />
   <img width="12" />
   
 </div>
