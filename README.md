@@ -9,8 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogrammer-gif-19019116&psig=AOvVaw0Jzc9B6ub12SFq4JzmtE1s&ust=1692685565838000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKDR6KaP7YADFQAAAAAdAAAAABAJ"  />
-
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 ###
 
 <div align="left">
