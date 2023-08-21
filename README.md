@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height="150" alt="stats img"  />
-  <img src="https://miro.medium.com/v2/resize:fit:1400/0*XZFbX5Xsmsbq6R_N.gif" height="150" alt="stats img"  />
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height="180" alt="stats img"  />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/0*XZFbX5Xsmsbq6R_N.gif" height="180" alt="stats img"  />
 
 </div>
 
