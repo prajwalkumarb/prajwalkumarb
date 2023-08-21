@@ -32,6 +32,10 @@
   <img width="12" />
   <img src="https://e7.pngegg.com/pngimages/910/226/png-clipart-visual-studio-2010-developpez-pour-le-web-avec-c-4-framework-entity-4-asp-net-4-silverlight-4-et-wcf-ria-services-logo-visual-basic-microsoft-visual-studio-visual-programming.png" height="35" alt="Visual Studio logo"  />
   <img width="12" />
+  <img src="https://w7.pngwing.com/pngs/447/630/png-transparent-intellij-pycharm-alt-macos-bigsur-icon.png" height="35" alt="Pycharm logo"  />
+  <img width="12" />
+  <img src="https://www.vhv.rs/dpng/d/208-2081256_python-logo-png-spyder-logo-spyder-python-icon.png" height="35" alt="Spyder logo"  />
+  <img width="12" />
   
 </div>
 
