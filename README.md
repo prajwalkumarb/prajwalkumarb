@@ -38,7 +38,7 @@
   <img width="12" />
   <img src="https://www.vhv.rs/dpng/d/208-2081256_python-logo-png-spyder-logo-spyder-python-icon.png" height="35" alt="Spyder logo"  />
   <img width="12" />
-  
+  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
 </div>
 
 ###
