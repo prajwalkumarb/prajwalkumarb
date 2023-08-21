@@ -32,7 +32,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com">
+  <a href="https://www.linkedin.com/in/prajwal-kumar-b-38b347225/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
