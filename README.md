@@ -22,6 +22,10 @@
   <img width="12" />
   <img src="https://png.pngtree.com/element_our/20190524/ourmid/pngtree-vector-signal-tower-wireless-network-logo-image_1095276.jpg" height="30" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://banner2.cleanpng.com/20180324/qxw/kisspng-linux-kernel-operating-systems-free-and-open-sourc-linux-5ab6fba3ce59e6.7795666315219414118452.jpg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://banner2.cleanpng.com/20180605/tjc/kisspng-kali-linux-backtrack-linux-distribution-offensive-kali-linux-5b1684937ed059.5248979015282023875194.jpg" height="30" alt="python logo"  />
+  <img width="12" />
   
 </div>
 
