@@ -16,29 +16,17 @@
 <h2>Skills</h2>
 
 <div align="left">
-  <img src="https://w7.pngwing.com/pngs/384/848/png-transparent-mysql-php-database-javascript-ajax-carnifex-blue-text-logo-thumbnail.png" height="30" alt="MySQL logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://png.pngtree.com/element_our/20190524/ourmid/pngtree-vector-signal-tower-wireless-network-logo-image_1095276.jpg" height="30" alt="networking logo"  />
-  <img width="12" />
-  <img src="https://banner2.cleanpng.com/20180324/qxw/kisspng-linux-kernel-operating-systems-free-and-open-sourc-linux-5ab6fba3ce59e6.7795666315219414118452.jpg" height="30" alt="Linux logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" height="35" alt="kali linux logo"  />
-  <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2AfSS4F1FO4z9dkodLKPx4s7b7uizvHXRtw&usqp=CAU" height="35" alt="MS Office logo"  />
-  <img width="12" />
-  <img src="https://e7.pngegg.com/pngimages/910/226/png-clipart-visual-studio-2010-developpez-pour-le-web-avec-c-4-framework-entity-4-asp-net-4-silverlight-4-et-wcf-ria-services-logo-visual-basic-microsoft-visual-studio-visual-programming.png" height="35" alt="Visual Studio logo"  />
-  <img width="12" />
-  <img src="https://w7.pngwing.com/pngs/447/630/png-transparent-intellij-pycharm-alt-macos-bigsur-icon.png" height="35" alt="Pycharm logo"  />
+<img src="https://skillicons.dev/icons?i=mysql,py,html,css,java,linux,eclipse,visualstudio,ps,androidstudio,arduino" />
+<img src="https://w7.pngwing.com/pngs/447/630/png-transparent-intellij-pycharm-alt-macos-bigsur-icon.png" height="35" alt="Pycharm logo"  />
   <img width="12" />
   <img src="https://www.vhv.rs/dpng/d/208-2081256_python-logo-png-spyder-logo-spyder-python-icon.png" height="35" alt="Spyder logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2AfSS4F1FO4z9dkodLKPx4s7b7uizvHXRtw&usqp=CAU" height="35" alt="MS Office logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" height="35" alt="kali linux logo"  />
+  <img width="12" />
+  <img src="https://png.pngtree.com/element_our/20190524/ourmid/pngtree-vector-signal-tower-wireless-network-logo-image_1095276.jpg" height="30" alt="networking logo"  />
+  <img width="12" />
 </div>
 
 ###
