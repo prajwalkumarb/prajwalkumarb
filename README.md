@@ -56,5 +56,6 @@
 <br clear="both">
 
 <img src="https://media.tenor.com/hlKEXPvlX48AAAAi/loading-loader.gif" alt="Snake animation" />
+<img width="50" />
 
 ###
