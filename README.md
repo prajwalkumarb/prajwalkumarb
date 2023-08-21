@@ -20,7 +20,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/512/4152/4152018.png" height="30" alt="networking logo"  />
+  <img src="https://w1.pngwing.com/pngs/70/795/png-transparent-internet-logo-computer-network-computer-network-diagram-telecommunications-network-networking-hardware-user-local-area-network-management.png" height="30" alt="networking logo"  />
   <img width="12" />
   
 </div>
