@@ -38,9 +38,8 @@
   <a href="https://instagram.com/prajwal_kumar_b?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
- <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtVbDcDjpWCLDdlFsZsqVMHwgjJNFjPvwQQxgCVBQnhLSbxjxcflJgWSTjnhnHBMSJwTkCGG">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
- </a>
+   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" value="prawjw" />
+
   
 </div>
 
