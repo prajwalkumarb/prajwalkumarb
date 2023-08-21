@@ -13,7 +13,6 @@
 <img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://i.pinimg.com/originals/71/a7/5d/71a75dace5dd09eb98fb0bee98a85876.gif)"  />
 
 ### :hammer_and_wrench: Languages and Tools :
-<h2>Skills</h2>
 
 <div align="left">
 <img src="https://skillicons.dev/icons?i=mysql,py,html,css,java,linux,eclipse,visualstudio,ps,androidstudio,arduino" />
