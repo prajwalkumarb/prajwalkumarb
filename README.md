@@ -28,6 +28,10 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" height="35" alt="kali linux logo"  />
   <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2AfSS4F1FO4z9dkodLKPx4s7b7uizvHXRtw&usqp=CAU" height="35" alt="MS Office logo"  />
+  <img width="12" />
+  <img src="https://e7.pngegg.com/pngimages/910/226/png-clipart-visual-studio-2010-developpez-pour-le-web-avec-c-4-framework-entity-4-asp-net-4-silverlight-4-et-wcf-ria-services-logo-visual-basic-microsoft-visual-studio-visual-programming.png" height="35" alt="Visual Studio logo"  />
+  <img width="12" />
   
 </div>
 
