@@ -64,3 +64,8 @@
 <img width="50" />
 
 ###
+<!-- Paste wherever you want your card to render -->
+<div username='prajwalkumarb' repos='' class='github-card' id='card'></div>
+
+<!-- Paste this script tag in head tag or before body close tag -->
+<script src='https://saurabhdaware.github.io/github-profile-card/card.js'></script>
